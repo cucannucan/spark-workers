@@ -14,7 +14,7 @@
         "diskSizeGb": "10",
         "diskType": "projects/spark-407914/zones/us-central1-a/diskTypes/pd-balanced",
         "labels": {},
-        "sourceImage": "projects/debian-cloud/global/images/debian-11-bullseye-v20221206"
+        "sourceImage": "projects/debian-cloud/global/images/ubuntu-2004-focal-v20231130"
       },
       "mode": "READ_WRITE",
       "type": "PERSISTENT"
